@@ -50,20 +50,6 @@ Operating under **Two-Key Governance Law** — a dual-control merge protocol:
 
 ---
 
-## 🤖 Local AI Stack
-
-Running fully local intelligence — no cloud dependency for core reasoning:
-
-```
-deepseek-r1:14b   ->  REASONING   9.0 GB
-qwen2.5:7b        ->  FAST        4.7 GB
-qwen2.5-coder:7b  ->  CODE        4.7 GB
-llama3.2:3b       ->  SAFE_SMALL  2.0 GB
-nomic-embed-text  ->  EMBEDDINGS  0.3 GB
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
